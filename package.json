@@ -1,0 +1,30 @@
+{
+  "name": "next-express-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravudai/next-express-mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravudai/next-express-mysql/issues"
+  },
+  "homepage": "https://github.com/ravudai/next-express-mysql#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.17.1",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
